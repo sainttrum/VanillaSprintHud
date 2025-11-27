@@ -1,0 +1,5 @@
+This folder will contain Java classes for VanillaSprintHud.
+Examples:
+- SprintHUDRenderer.java (handles displaying the HUD)
+- ConfigManager.java (handles scaling and color options)
+- VisibilityHandler.java (handles hiding HUD with F1/F3/menus)
